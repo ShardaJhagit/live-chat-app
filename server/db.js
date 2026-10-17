@@ -137,5 +137,5 @@ app.get("/mail", (req,res)=>{
 
 
 app.listen(port,()=>{
-    console.log("server start")
+    console.log("db server start")
 })
